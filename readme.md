@@ -1,14 +1,10 @@
 <h3>Features</h3>
-• Fire bot</br>
-• Fast Healer</br>
-• Custom Aim Settings</br>
-• Aim Helper</br>
-• Show Fps</br>
-• Auto Respawn</br>
-• Auto Reload</br>
-• Auto Weapon Swap</br>
-• Change Weapon Scopes</br>
-• Play solo in Duo & Play solo in Squad</br>
+• Zoom In/Out</br>
+• Auto Draw</br>
+• Auto Guess</br>
+• Key Word Helper</br>
+• Adblock</br>
+</br>
 </br>
 <b>Requirements:</b> • Tampermonkey
 <h2>Userscript: <a href="https://github.com/MrCoderN/gartic.io-2019-hacks-cheats-mods/raw/master/garticiohack.user.js" target="_blank">CLICK HERE</a></h2>
