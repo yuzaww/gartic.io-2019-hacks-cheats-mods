@@ -11,7 +11,7 @@
 • Play solo in Duo & Play solo in Squad</br>
 </br>
 <b>Requirements:</b> • Tampermonkey
-<h2>Userscript: <a href="https://github.com/MrCoderN/surviv.io-hacks-cheats-mods-survivio/raw/master/surviviomods.user.js" target="_blank">CLICK HERE</a></h2>
+<h2>Userscript: <a href="https://github.com/MrCoderN/gartic.io-2019-hacks-cheats-mods/raw/master/garticiohack.user.js" target="_blank">CLICK HERE</a></h2>
 <b>* Other Websites & Mods *</b></br>
 All IO Mods: https://slithere.com</br>
 All IO Games: https://iogameslist.org
