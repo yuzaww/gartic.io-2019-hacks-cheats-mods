@@ -1,9 +1,12 @@
 <h3>Features</h3>
-• Zoom In/Out</br>
-• Auto Draw</br>
-• Auto Guess</br>
-• Key Word Helper</br>
+• Auto Guess (?)</br>
+• Inform Giver</br>
 • Adblock</br>
+• Word Helper</br>
+• Faster Drawer</br>
+• Guess Trier</br>
+• Show Player Info</br>
+• Faster Writer & more...
 </br>
 </br>
 <b>Requirements:</b> • Tampermonkey
@@ -24,6 +27,7 @@ Skribbl.io: https://skribbl-io.net</br>
 Deeeep.io: https://deeeep-io.net</br>
 Raaaaft.io: http://raaaaftio.org</br>
 Moomoo.io: https://moomooioplay.com</br>
+Shellshock.io: https://shellshockio.org</br>
 Tanksmith.io: http://tanksmithio.org</br>
 Zombsroyale.io: https://zombsroyaleio.org
 </br></br>
