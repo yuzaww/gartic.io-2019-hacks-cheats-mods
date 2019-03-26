@@ -8,7 +8,8 @@
 • Show Player Info</br>
 • Faster Writer & more...
 </br>
-</br>
+</br>Feel Free to DM to me https://instagram.com/aecicekdagi about issues.</br>
+You can also follow me.</br></br>
 <b>Requirements:</b> • Tampermonkey
 <h2>Userscript: <a href="https://github.com/MrCoderN/gartic.io-2019-hacks-cheats-mods/raw/master/garticiohack.user.js" target="_blank">CLICK HERE</a></h2>
 <b>* Other Websites & Mods *</b></br>
