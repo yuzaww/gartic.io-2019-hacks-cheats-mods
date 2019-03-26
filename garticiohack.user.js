@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Gartic.io 2019 (Hacks,Mods,Cheats) - Really Working (sandbox-unblocked)
-// @description  Garticio Auto Guess,Word Helper,Faster Drawer, Player Info,
+// @description  Garticio Auto Guess,Word Helper,Faster Drawer, Player Info, Faster Writer, Adblock
 // @author       Never-Steal-Dont-Ban
 // @namespace    Never-Steal-Dont-Ban
-// @version      1.1
+// @version      1.2
 // @match *://gartic.io/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
