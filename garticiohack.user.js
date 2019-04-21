@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Gartic.io Hacks Cheats Mods 2019 - Working - (sandbox-unblocked) by ioMods.org
-// @description  Garticio Mods Features: Guess Helper, Faster Drawer, Faster Writer, Auto Guesser, FPS, Adblock Created by ioMods.org
+// @name         Gartic.io AUTO DRAW - Garticio Hacks - Best Gartic Cheat 2019
+// @description  Garticio Mods Features: Guess Helper, Faster Drawer, Faster Writer, Auto Guesser, FPS, Adblock
 // @namespace    iomods.org
 // @author       iomods.org
-// @version      1
+// @version      1.1
 // @require      http://code.jquery.com/jquery-3.3.1.min.js
 // @updateURL    https://iomods.org/mods/garticio.user.js
 // @downloadURL  https://iomods.org/mods/garticio.user.js
